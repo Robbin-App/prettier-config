@@ -19,6 +19,6 @@ $ npm i --save-dev @robbinapp/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@azz/prettier-config"
+  "prettier": "@robbinapp/prettier-config"
 }
 ```
