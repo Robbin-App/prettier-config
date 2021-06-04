@@ -1,6 +1,6 @@
 {
   "name": "@robbinapp/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Robbin Prettier Config",
   "main": "index.json",
   "repository": "git@github.com:Robbin-App/prettier-config.git",
