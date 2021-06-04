@@ -1,0 +1,9 @@
+{
+  "name": "@robbinapp/prettier-config",
+  "version": "1.0.0",
+  "description": "Robbin Prettier Config",
+  "main": "index.json",
+  "repository": "git@github.com:Robbin-App/prettier-config.git",
+  "author": "Jose Guerrero <jose@robbin.app>",
+  "license": "MIT"
+}
